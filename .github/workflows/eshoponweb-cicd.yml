@@ -9,7 +9,7 @@ env:
   LOCATION: australiaeast
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: fd4eda99-52bf-45b1-a9e9-471629680d18
-  WEBAPP-NAME: owlzzzz
+  WEBAPP-NAME: rg-eshoponweb
 
 jobs:
   #Build, test and publish .net web project in repository
